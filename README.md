@@ -13,7 +13,7 @@ Copy code
   ├── index.html    # Main HTML file
   ├── style.css     # Styling for the application
   ├── script.js     # JavaScript functionality
-  └── /assets       # Optional folder for images/icons
+  
 Technologies Used
 HTML: For structuring the application.
 CSS: For styling and layout.
@@ -35,7 +35,14 @@ Screenshots
 Input Form:
 ![Screenshot (65)](https://github.com/user-attachments/assets/a8cac3c3-3cfc-4c22-b09f-dc5effb5148a)
 
+
+
+
+
+
 Resume Preview:
+
+
 ![thumbnail](https://github.com/user-attachments/assets/c89bb412-4a8d-47c3-bcb8-76f85887f68b)
 
 
